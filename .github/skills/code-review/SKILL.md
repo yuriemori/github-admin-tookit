@@ -1,3 +1,8 @@
+---
+name: code-review-official-docs
+description: Use during GitHub.com Copilot Code Review when a finding depends on Microsoft or GitHub product specifications, APIs, SDKs, configuration, permissions, limits, or support state, and must be verified against Microsoft Learn or GitHub Docs.
+---
+
 # code-review-official-docs: Code Review with Official Documentation
 
 Use this workflow during GitHub.com Copilot Code Review. It applies when the correctness of a finding depends on external official specifications from Microsoft or GitHub, such as an API, SDK, Azure resource, .NET/C# behavior, Bicep resource, GitHub Action, repository setting, permission, ruleset, or documented platform behavior.
